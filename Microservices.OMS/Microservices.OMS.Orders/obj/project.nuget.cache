@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYrz7itzPq055rUt+gpJZ1+QVZu8R6eR8VnTuu8sOlYNmNoLZtNoReffv2Kseqv7uKmS1IiMDYeQiEd5bDxL4A==",
+  "success": true,
+  "projectFilePath": "D:\\Training Content\\Microservices\\OMS\\Microservices.OMS\\Microservices.OMS.Orders\\Microservices.OMS.Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\swetasoni\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
