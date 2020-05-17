@@ -69,7 +69,7 @@ namespace Microservices.OMS.Users
         {
             //
             var optionsBuilder = new DbContextOptionsBuilder<OMSContext>();
-            optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=OMS;Persist Security Info=True;user id=sa;password=Nagarro@123456;MultipleActiveResultSets=True;Enlist=False;Persist Security Info=true");
+            optionsBuilder.UseSqlServer("Data Source=34.68.111.127;Initial Catalog=OMS;Persist Security Info=True;user id=sa;password=Test@123;MultipleActiveResultSets=True;Enlist=False;Persist Security Info=true");
 
             return new OMSContext(optionsBuilder.Options);
         }
